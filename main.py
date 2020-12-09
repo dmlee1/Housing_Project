@@ -116,7 +116,7 @@ print("\nBeginning validation\n")
 # Below two sql commands sourced from Mr. Kenneth Holm
 roomSql = """select
 
-    sum(total_rooms)
+    sum(total_bedrooms)
 
     from
 
